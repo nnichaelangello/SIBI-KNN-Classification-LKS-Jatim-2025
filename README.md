@@ -16,8 +16,8 @@ Kedua kode mencakup preprocessing data, feature engineering, pelatihan model, da
 Klasifikasi-SIBI-KNN-LKS-Jatim-2025/
 ├── kode_mentor.ipynb               # Kode KNN mentor dengan preprocessing dan evaluasi
 ├── kode_siswa.ipynb                # Kode KNN siswa untuk LKS Jatim 2025
-├── data_train.csv                  # Dataset pelatihan (placeholder, tidak disertakan)
-├── data_test.csv                   # Dataset pengujian (placeholder, tidak disertakan)
+├── Datafull train.csv                  # Dataset pelatihan (placeholder, tidak disertakan)
+├── Datafull test.csv                   # Dataset pengujian (placeholder, tidak disertakan)
 ├── Soal_LKS_AI_JATIM_2025_SIBI.pdf # Soal resmi LKS Jatim 2025 untuk SIBI
 ```
 
